@@ -1,0 +1,1 @@
+{"timestamp": "2026-11-17T11:04:50.750382+00:00", "event": "SSH_BRUTE_FORCE_DETECTED", "source_ip": "203.0.113.45", "failed_attempts": 5, "threat_intel": {"abuse_confidence_score": 0, "country": null, "isp": null, "total_reports": 7}, "mitigation": "[DRY-RUN] Would execute: sudo ufw insert 1 deny from 203.0.113.45 to any"}
